@@ -35,6 +35,6 @@ optional arguments:
 ## Samples
 
 
-![](img/vectorfield_1.png){:height="60%" width="60%"}
-![](img/vectorfield_2.png){:height="60%" width="60%"}
-![](img/vectorfield_3.png){:height="60%" width="60%"}
+![](img/vectorfield_1.png)
+![](img/vectorfield_2.png)
+![](img/vectorfield_3.png)
