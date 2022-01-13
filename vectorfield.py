@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 
 import sys
 import random
@@ -18,7 +19,7 @@ XLIM_MIN, XLIM_MAX = [-20, 20]
 YLIM_MIN, YLIM_MAX = [-20, 20]
 
 # parser arguments
-parser = argparse.ArgumentParser('Save vector fields as a PNG file. Comes with several default vector fields.')
+parser = argparse.ArgumentParser('Save vector field as a PNG file. Comes with several default vector fields.')
 parser.add_argument('-c', '--color', type=str,
                     help='Color scheme', choices=plt.style.available,  default=DEFAULT_COLORSCHEME)
 parser.add_argument('-v', '--vectorfield', type=int,
